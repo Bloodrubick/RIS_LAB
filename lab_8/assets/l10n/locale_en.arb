@@ -1,0 +1,22 @@
+{
+  "login": "Login",
+  "logout": "Logout",
+  "currencyRate": "Exchange Rate",
+  "news": "News",
+  "profile": "Profile",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "search": "Search",
+  "asNominal": "({value} pcs.)",
+  "clearCache": "Clear cache",
+  "lastUpdate": "Last update date",
+  "cacheCleared": "Cache cleared",
+  "noData": "No data",
+  "noInternetNoData": "No internet and no local data",
+  "retry": "Retry",
+  "error": "Error: {error}",
+  "noNews": "No news",
+  "language": "Language"
+}

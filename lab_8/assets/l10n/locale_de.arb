@@ -1,0 +1,22 @@
+{
+  "login": "Einloggen",
+  "logout": "Ausloggen",
+  "currencyRate": "Wechselkurse",
+  "news": "Nachrichten",
+  "profile": "Profil",
+  "theme": "Thema",
+  "light": "Hell",
+  "dark": "Dunkel",
+  "system": "System",
+  "search": "Suche",
+  "asNominal": "({value} Stk.)",
+  "clearCache": "Cache leeren",
+  "lastUpdate": "Letztes Update",
+  "cacheCleared": "Cache geleert",
+  "noData": "Keine Daten",
+  "noInternetNoData": "Kein Internet und keine lokalen Daten",
+  "retry": "Wiederholen",
+  "error": "Fehler: {error}",
+  "noNews": "Keine Nachrichten",
+  "language": "Sprache"
+}

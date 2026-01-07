@@ -1,0 +1,22 @@
+{
+  "login": "Войти",
+  "logout": "Выйти",
+  "currencyRate": "Курс Валют",
+  "news": "Новости",
+  "profile": "Профиль",
+  "theme": "Тема",
+  "light": "Светлая",
+  "dark": "Тёмная",
+  "system": "Системная",
+  "search": "Поиск",
+  "asNominal": "({value} шт.)",
+  "clearCache": "Очистить кэш",
+  "lastUpdate": "Дата последнего обновления",
+  "cacheCleared": "Кэш очищен",
+  "noData": "Нет данных",
+  "noInternetNoData": "Нет интернета и нет локальных данных",
+  "retry": "Повторить попытку",
+  "error": "Ошибка: {error}",
+  "noNews": "Нет новостей",
+  "language": "Язык"
+}
