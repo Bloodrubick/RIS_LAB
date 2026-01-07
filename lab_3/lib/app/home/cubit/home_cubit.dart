@@ -1,0 +1,10 @@
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:mad_flutter_practicum/app/home/cubit/home_state.dart';
+
+class HomeCubit extends Cubit<HomeState> {
+  HomeCubit() : super(const HomeState());
+
+  void setTabIndex(int index) {
+    emit(state.copyWith(tabIndex: index));
+  }
+}
